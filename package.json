@@ -1,0 +1,48 @@
+{
+  "name": "minia2a-x402",
+  "version": "1.0.2",
+  "description": "x402-named entry point to the minia2a.uk MCP server — 1,700 pay-per-call APIs for AI agents, USDC on Base, 5 free trials per signed wallet. Thin alias: it boots minia2a-mcp, which stays the canonical package.",
+  "mcpName": "uk.minia2a/minia2a-x402",
+  "type": "module",
+  "bin": {
+    "minia2a-x402": "bin/index.js"
+  },
+  "files": [
+    "bin/",
+    "README.md",
+    "server.json",
+    "LICENSE"
+  ],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "x402",
+    "x402-mcp",
+    "minia2a",
+    "ai-agent",
+    "micropayments",
+    "usdc",
+    "agent-economy",
+    "m2m",
+    "machine-to-machine",
+    "api-marketplace",
+    "pay-per-call",
+    "auto-mode",
+    "claude-code",
+    "agent-payments",
+    "base"
+  ],
+  "author": "minia2a",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/minia2auk/minia2a-x402"
+  },
+  "homepage": "https://minia2a.uk",
+  "dependencies": {
+    "minia2a-mcp": "^1.2.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
