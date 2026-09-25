@@ -1,6 +1,6 @@
 {
   "name": "minia2a-x402",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "x402-named entry point to the minia2a.uk MCP server — 1,700 pay-per-call APIs for AI agents, USDC on Base, 5 free trials per signed wallet. Thin alias: it boots minia2a-mcp, which stays the canonical package.",
   "mcpName": "uk.minia2a/minia2a-x402",
   "type": "module",
