@@ -35,7 +35,8 @@ If you only want the server, install [`minia2a-mcp`](https://www.npmjs.com/packa
 
 ## What the server does
 
-minia2a.uk is a pay-per-call API marketplace for AI agents: ~1,700 endpoints, settled
+minia2a.uk is a pay-per-call API marketplace for AI agents: its whole catalog
+(current count at [https://minia2a.uk/api/services](https://minia2a.uk/api/services)), settled
 in USDC on Base over [x402](https://x402.org). Every signed wallet gets 5 free trial
 calls — no registration, no account, no API key.
 
